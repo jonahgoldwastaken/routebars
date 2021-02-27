@@ -1,0 +1,11 @@
+{
+  "name": "routebars",
+  "version": "1.0.0",
+  "description": "An SPA router for Handlebars",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Jonah Meijers <jonahmeijers97@gmail.com>",
+  "license": "MIT"
+}
